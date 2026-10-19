@@ -1,0 +1,18 @@
+title: Communication Theory Primer
+email: ""
+description: >-
+  A public-facing guide to communication theory frameworks and how they help
+  interpret communication problems in an AI-shaped century.
+url: "https://bryngrant.github.io"
+baseurl: "/comm-primer"
+github_username: bryngrant
+repository_name: comm-primer
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+exclude:
+  - vendor/
+  - Gemfile.lock
