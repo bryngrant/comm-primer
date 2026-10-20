@@ -10,12 +10,12 @@ Welcome to my website. This site introduces the theory of how AI affects the car
 
 ## What this project is for
 
-This project aims to show how AI can impact many parts of the moving world. Especially the real world and students who will soon be on their own job search. It is meant to make readers aware of how AI may be present in the corporate and job market. 
+This project aims to show how AI can impact many parts of the moving world. Especially the real world and students who will soon be on their own job search. It is meant to make readers aware of how AI may be present in the corporate and job market. As well to show how it affects communication between a recruiter and a seeker. 
 
 ## What you will find here
 
 - A guided tour of six perspectives and practical pages.
-- Plain-language framing designed for broad audiences.
-- Space for examples, case studies, and images you will add.
+- Examples of AI in the job market.
+- The way communication is affected by AI.
 
-Use the navigation to move through each lens and build your own analysis.
+
