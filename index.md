@@ -17,5 +17,6 @@ This project aims to show how AI can impact many parts of the moving world. Espe
 - A guided tour of six perspectives and practical pages.
 - Examples of AI in the job market.
 - The way communication is affected by AI.
+  
 
 
