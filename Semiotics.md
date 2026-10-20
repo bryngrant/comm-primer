@@ -1,10 +1,10 @@
 ---
 layout: default
-title: Interpretation and intention
-permalink: /interpretation-and-intention/
+title: Semiotics
+permalink: /Semiotics/
 ---
 
-# Interpretation and intention
+# Semiotics in AI Job Usage
 
 This page introduces Umberto Eco’s framework of intention and extends it with *intentio algorithmi*. Classical models distinguish authorial and readerly intention, but AI systems add another layer through automated ranking, prediction, and generation.
 
