@@ -6,8 +6,8 @@ permalink: /Semiotics/
 
 # Semiotics in AI Job Usage
 
-This page introduces Umberto Eco’s framework of intention and extends it with *intentio algorithmi*. Classical models distinguish authorial and readerly intention, but AI systems add another layer through automated ranking, prediction, and generation.
+This page introduces Semiotics is a study that shows how people develop meaning using words and symbols.
 
-The key question is not only “What did the author mean?” or “What did the reader infer?” but also “What did the system optimize for, and how did that shape interpretation?”
+ In job listing, words such as “experience,” “entry-level,” and “competitive” will help a person get a feel of the nature of the job just by looking at a few words. The AI uses such words in job postings in order to attract the attention of people and make them click on the job listing.
 
-Use this section to define the algorithmic layer that older frameworks could not fully name.
+This illuminates how semiotics is shown in my project and AI job usage.
