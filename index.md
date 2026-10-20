@@ -4,7 +4,7 @@ title: Home
 permalink: /
 ---
 
-# Communication Theory for Everyday Problems in the AI Century
+# How AI Impacts the Career Opportunities Available Online 
 
 Welcome. This site introduces major schools of communication theory for readers who may not be communication specialists but regularly face communication breakdowns at home, at work, and online.
 
