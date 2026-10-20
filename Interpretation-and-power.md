@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Semotics
+title: Interpretation and power
 permalink: /interpretation-and-power/
 ---
 
-# Semotics of AI in Job Market
+# Interpretation and Power
 
