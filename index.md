@@ -10,7 +10,7 @@ Welcome to my website. This site introduces the theory of how AI affects the car
 
 ## What this project is for
 
-This project aims to make the commonplace visible. It uses classic and contemporary communication frameworks to help explain why messages fail, how meanings shift, and what practical decisions people can make when communication problems involve artificial intelligence.
+This project aims to show how AI can impact many parts of the moving world. Especially the real world and students who will soon be on their own job search. It is meant to make readers aware of how AI may be present in the corporate and job market. 
 
 ## What you will find here
 
