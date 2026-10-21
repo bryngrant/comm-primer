@@ -1,13 +1,13 @@
 ---
 layout: default
-title: The transmission view and its limits
-permalink: /transmission-limits/
+title: The transmission view and phenomenon 
+permalink: /transmission-phenomenon/
 ---
 
-# The transmission view and its limits
+# The transmission view and phenomenon 
 
-This page introduces what the Shannon-Weaver model clarifies: signal, channel, noise, and reliability. It is useful when communication problems involve distortion, overload, timing failures, or unclear transmission paths.
+This page introduces The phenomenon is AI filters job postings based on what they think the job seeker should be applying for. Both job seekers and recruiters experience this issue.
 
-The page will also examine what the mathematical model does not fully capture. Humanist critiques help show that communication is not only about accurate transfer, but also about context, interpretation, ethics, and social relations.
+While the transmission view and its limits can be seen through communication as the proccess of conveyance. This is shown by different stages. It includes; technical, semantic, and effectiveness. Meaning one was the information sent properly, two did the signs carry the planned meaning, and three did the meaning influence behavior in the intended way.
 
-Use this section to compare technical clarity with lived communication complexity.
+When it comes to AI in the job market these all stand true. The information is sent correctly but the job seeker may miss information because of AI and the algorithm. As well the semantic would be did the job seeker understand the information that they were given. Lastly, did the information have an affect on the seeker. 
