@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Interpretation and Intention 
-permalink: /Interpretation-and-intention/
+permalink: /interpretation-and-intention/
 ---
 
 # Interpretation and Intention Shown in Semiotics
