@@ -6,13 +6,8 @@ permalink: /what-to-do/
 
 # What the reader should do
 
-This page translates theory into practical guidance for personal and professional communication.
+This page higlights what I recommend the reader of this website to do .
 
-Suggested structure for your final content:
+In my opinion, if you are the job seeker it would be useful for you to know that job searching is filtered by AI and what they think would fit you best. Therefore, to make sure this works on your behalf you should ensure that your profile is accurately represented and that you are aware of the usage of AI.
 
-1. Diagnose the communication failure with one or two theory lenses.
-2. Identify where meaning shifted and who influenced that shift.
-3. Test revised messages in context, not only for clarity but for interpretation.
-4. Add AI-specific checks for automation bias, missing context, and accountability.
-
-Use this section to offer actionable habits that readers can apply immediately.
+Also, it is necessary to look for the jobs different than what AI gives to you. An example would be using the company website instead of linked in or other job sites. Lastly, don't be worried if your resume is not an exact match to what the job is asking for. 
