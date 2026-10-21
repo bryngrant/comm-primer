@@ -29,6 +29,21 @@ This repository hosts a Jekyll website designed for publication on GitHub Pages.
 
 The workflow in `.github/workflows/jekyll.yml` runs on every commit pushed to `main` and deploys the site to GitHub Pages.
 
+## Codespaces: fixing a divergent `main` branch safely
+
+If your Codespace shows `main` as both ahead and behind origin (for example `11↓ 2↑`) and `git pull` fails with `Need to specify how to reconcile divergent branches`, use a merge-based pull so both sides are preserved:
+
+1. Check local state: `git status`
+2. If you have uncommitted edits, either:
+   - commit them (`git add . && git commit -m "Save current changes before sync"`), or
+   - stash them (`git stash push -u -m "Temporary changes before sync"`)
+3. Pull with merge (no history rewrite): `git pull --no-rebase origin main`
+4. Resolve conflicts if prompted, then complete the merge commit.
+5. Push: `git push origin main`
+6. If you stashed changes, reapply them after the pull: `git stash pop`
+
+This avoids force-push and keeps both your local commits and remote commits in history.
+
 ## How to add or revise content
 
 1. Open the page file you want to edit (`*.md` in repository root).
