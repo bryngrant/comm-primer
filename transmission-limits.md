@@ -1,7 +1,7 @@
 ---
 layout: default
-title: The transmission view and phenomenon 
-permalink: /transmission-phenomenon/
+title: The transmission view and its limits 
+permalink: /transmission-limits/
 ---
 
 # The transmission view and phenomenon 
