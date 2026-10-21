@@ -4,7 +4,7 @@ title: Interpretation and Intention
 permalink: /Interpretation-and-intention/
 ---
 
-# Semiotics
+# Interpretation and Intention Shown in Semiotics
 
 This page introduces Semiotics and how it is a study that shows how people develop meaning using words and symbols. 
 
