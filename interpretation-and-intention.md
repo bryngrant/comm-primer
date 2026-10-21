@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Semiotics
-permalink: /Semiotics/
+title: Interpretation and Intention 
+permalink: /Interpretation-and-intention/
 ---
 
 # Semiotics
