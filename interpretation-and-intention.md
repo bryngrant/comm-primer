@@ -12,4 +12,4 @@ In my the job market, words such as “experience,” “entry-level,” and “
 
 The AI uses such words in job postings in order to attract the attention of people and make them click on the job listing.
 
-The key question is not only “What did the author mean?” or “What did the reader infer?” but also “What did the system optimize for, and how did that shape interpretation?”
+The key question is "what does the message mean?" and "how did I interpret it?" This helps really understand and figure out the right message. 
