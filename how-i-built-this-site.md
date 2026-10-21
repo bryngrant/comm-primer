@@ -17,4 +17,4 @@ This site is built with Jekyll for GitHub Pages. The structure uses a shared lay
 
 ## Agent involvement
 
-A coding agent scaffolded the Jekyll project, created the page structure and starter text, implemented accessible navigation and ARIA landmarks, added theme styling, and configured the GitHub Actions workflow. You remain fully in control of all substantive analysis and content.
+A coding agent scaffolded the Jekyll project, created the page structure and starter text, implemented accessible navigation and ARIA landmarks, added theme styling, and configured the GitHub Actions workflow. 
